@@ -13,19 +13,23 @@
 
 ---
 
-> **Paper:** *Gaussian Processes for Sensor Repositioning in PDE-Driven Systems*  
+> **Paper Link:** [*Gaussian Processes for Sensor Repositioning in PDE-Driven Systems*](https://ieeexplore.ieee.org/abstract/document/11464851/)
 > IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026
 
 <details>
 <summary>BibTeX Citation</summary>
 
 ```bibtex
-@inproceedings{pandya2026gpsensors,
-  title     = {Gaussian Processes for Sensor Repositioning in {PDE}-Driven Systems},
-  author    = {Pandya, Maan and Giovanardi, Bianca and Rajan, Raj Thilak},
-  booktitle = {IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-  year      = {2026}
-}
+@INPROCEEDINGS{11464851,
+  author={Pandya, Maan and Giovanardi, Bianca and Rajan, Raj Thilak},
+  booktitle={ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Gaussian Processes for Sensor Repositioning in PDE-Driven Systems}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={20122-20126},
+  keywords={Gaussian Processes;Physics-Informed Machine Learning;Sensor Placement;Autonomous Systems},
+  doi={10.1109/ICASSP55912.2026.11464851}}
 ```
 
 </details>
